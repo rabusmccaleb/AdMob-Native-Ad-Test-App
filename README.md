@@ -46,3 +46,6 @@ See the screen shot below to see how and where to add that in Xcode :
 <img width="261" alt="Screen Shot 2022-05-20 at 8 22 46 PM" src="https://user-images.githubusercontent.com/69118018/169629073-506331b0-0730-4f71-80bf-3d698e1cb858.png">
 </p>
 
+
+If your a custom to swift everything else works as normal. Everything else should be able to be understood by looking at the ViewController file :
+
