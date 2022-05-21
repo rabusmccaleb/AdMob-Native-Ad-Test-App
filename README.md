@@ -49,3 +49,4 @@ See the screen shot below to see how and where to add that in Xcode :
 
 If your a custom to swift everything else works as normal. Everything else should be able to be understood by looking at the ViewController file :
 
+https://github.com/rabusmccaleb/AdMob-Native-Ad-Test-App/blob/main/AdMobTestApp/ViewController.swift
