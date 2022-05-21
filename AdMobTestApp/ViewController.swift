@@ -61,7 +61,6 @@ class  ViewController : UIViewController, GADNativeAdLoaderDelegate, GADVideoCon
             self.AdContent.mediaContent?.videoController.play()
                 self.Headline.text = nativeAd.headline
             self.AdInfoText.text = nativeAd.body
-            
             self.CallToActionButton.setTitle(nativeAd.callToAction, for: .normal)
             self.Price.text = nativeAd.price
             self.Store.text = nativeAd.store
