@@ -33,7 +33,7 @@ https://developers.google.com/admob/ios/quick-start
 
 
 #### Using Storyboard :
-If you want to user storyboard for styling and object placement these are two things you probably should know :
+If you want to use storyboard for styling and object placement these are two things you probably should know :
 
 1.  Your Entire Native Ad has to be embedded in a UIView and this view has to conform to the `GADNativeAdView` class otherwise it will not work
 See the screen shot below to see how and where to add that in Xcode :
