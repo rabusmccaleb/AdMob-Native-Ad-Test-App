@@ -35,13 +35,13 @@ https://developers.google.com/admob/ios/quick-start
 #### Using Storyboard :
 If you want to use storyboard for styling and object placement these are two things you probably should know :
 
-1.  Your Entire Native Ad has to be embedded in a UIView and this view has to conform to the `GADNativeAdView` class otherwise it will not work
+1.  Your Entire Native Ad has to be embedded in a UIView and this view has to conform to the `GADNativeAdView` class otherwise it will not work.
 See the screen shot below to see how and where to add that in Xcode :
 <p align="center">
 <img width="258" alt="Screen Shot 2022-05-20 at 8 15 46 PM" src="https://user-images.githubusercontent.com/69118018/169628943-6dcb883c-cecb-4539-88ad-ab56b2f9638a.png">
 </p>
 
-2. Your also needs Media View needs to conform a class in this class has to be `GADMediaView`. The process is the same as the one above see screenshot below:
+2. Your Media View also needs to conform to the `GADMediaView` class. The process is the same as the one above see screenshot below:
 <p align="center">
 <img width="261" alt="Screen Shot 2022-05-20 at 8 22 46 PM" src="https://user-images.githubusercontent.com/69118018/169629073-506331b0-0730-4f71-80bf-3d698e1cb858.png">
 </p>
